@@ -6,9 +6,15 @@
   ==================================================================
 -->
 
-## 11/1/2025 - First Journal Entry  
+## 11/1/2025 2:10 PM - First Journal Entry  
 
 This is a project that i have been working on for a bit. It's for me and a friend from school, who has wrist pain and his laptop keyboard is absolutely terrible. The ergogen config was made about a month ago and i haven't worked on it for a while because i was busy but i routed it today on the pcb in kicad and prepared it to be ordered from allpcb.
 The setup is reversible and designed to cost about AU$50 (about US$30) per pair of boards -- i haven't made a full BOM yet but that's next i think.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--37fb024a170d9f3df938cf5d842586097d30b544/image.png)  
+
+## 11/1/2025 2:50 PM - Fixed routing traces that showed as unconnected  
+
+kicad was being painful and saying that i hadn't routed things that i was pretty sure i'd routed (since its dual sided and reversible it was registering that one side did not connect properly to the other. Anyway, I just made alternate tracks so that the energy could flow on two different paths just in case, and that made it be quiet. DRC doesn't show any critical warnings any more
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--f0f48361c2c042115c460bbfbd08805992181d91/image.png).
+  
 
