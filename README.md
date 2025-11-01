@@ -16,7 +16,7 @@ Ergogen outputs a DXF file for the bottom shape of the case, which is defined th
 Also, since I will be taking this keyboard to and from school, I will make a hinging case to place the two halves in with foam padding for safety.
 
 ### Software
-I will probably just go with QMK for this. One thing that is important to me is for the keyboard to run both wired and wireless - eg I plug one half with a usb C to A port into a school computer, and then that half talks to the other half and I can use it on computers without Bluetooth support; but I believe that QMK has this function so I will just use that. Potentially, if I have extra time, then I could code something custom in C, but I am not sure whether this is feasible at this point and with exams coming up.
+I will probably just go with zmk for this. One thing that is important to me is for the keyboard to run both wired and wireless - eg I plug one half with a usb C to A port into a school computer, and then that half talks to the other half and I can use it on computers without Bluetooth support; but I believe that QMK has this function so I will just use that. Potentially, if I have extra time, then I could code something custom in C, but I am not sure whether this is feasible at this point and with exams coming up.
 
 # Images
 ![Initial Ergogen Design](./img/ergogen.png)
