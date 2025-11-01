@@ -27,3 +27,11 @@ I saw that allpcb was offering manufacturing and delivery for US $1 so i just im
 
   
 
+## 11/1/2025 9 PM - Created first draft of BOM  
+
+Did some research on sourcing of parts and how expensive everything is going to be, and made a first draft of a BOM in libreoffice. Honestly, less than I thought -- about 80 australian or 55 american dollars for 2 keyboards, fully wireless and split.
+I did include welcome deal for the switches, which I am going to make use of, but didn't use any of the aliexpress sales which are on all the time. Hopefully that will bring it down even more
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c49504d935bf0d03425c33c4d878850368cb8a6b/image.png)
+  
+
