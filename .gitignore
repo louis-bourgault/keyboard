@@ -1,2 +1,3 @@
 *.lck
 #kicad lockfile
+*fp-info-cache
