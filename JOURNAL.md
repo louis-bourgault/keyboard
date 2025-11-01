@@ -18,3 +18,12 @@ kicad was being painful and saying that i hadn't routed things that i was pretty
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--f0f48361c2c042115c460bbfbd08805992181d91/image.png).
   
 
+## 11/1/2025 3 PM - Exported Gerbers and Ordered PCB  
+
+I saw that allpcb was offering manufacturing and delivery for US $1 so i just impulsively exported my gerbers and ordered some pcbs! They should come in 3 days or so -- I won't have any electrical components by that time to attatch to them, but it will be cool to look at and will help me design my case around them.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a5b992497b377c696fd80700eb5df57527c31117/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM1NywicHVyIjoiYmxvYl9pZCJ9fQ==--c8844753270cabc3cf16af3c0a66b6183d6265ab/image.png)
+
+  
+
