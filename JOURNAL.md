@@ -35,3 +35,10 @@ I did include welcome deal for the switches, which I am going to make use of, bu
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c49504d935bf0d03425c33c4d878850368cb8a6b/image.png)
   
 
+## 11/2/2025 - Started work on case design  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--ded5353b05e4267ae4986bcc66c3f10d82ebfa78/image.png)
+
+Working on Fusion 360 design -- looks pretty good so far! Just designed a simple case.
+Halfway through I realised that I'd been designing in non parametric mode. Why does fusion even have that? There's nothing that i would need to go back and change though, so i don't think it'll be a problem.  
+
