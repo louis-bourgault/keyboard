@@ -7,7 +7,7 @@ This is designed to be pretty much as cheap a keyboard as it is possible to manu
 ## Design
 ### PCB
 - Ergogen for PCB design and layout drafting. It is a very simple, user friendly and powerful program. You define layouts for rows and columns, and nets to connect them
-  - Note: In my Ergogen file there is a single net that was not correct, and I had to route manually in KiCad
+  - Note: In my Ergogen file there is a single net that was not correct, and I had to route manually in KiCad. This is the upper thumb cluster key.
 - KiCad for routing the pcb. Ergogen creates the nets, so I only have to route it -- as such, there is no kicad schematic file, just a pcb file that I edited to design
 - PCB: AllPcb. They had a cheap offer which let me get everything for a $2, including delivery.
 
@@ -18,6 +18,8 @@ Also, since I will be taking this keyboard to and from school, I will make a hin
 
 ### Software
 I will probably just go with zmk for this. One thing that is important to me is for the keyboard to run both wired and wireless - eg I plug one half with a usb C to A port into a school computer, and then that half talks to the other half and I can use it on computers without Bluetooth support; but I believe that QMK has this function so I will just use that. Potentially, if I have extra time, then I could code something custom in C, but I am not sure whether this is feasible at this point and with exams coming up.
+
+Note: this software is in a seperate repo because of the way that ZMK works. The repo is [louis-bourgault/zmk-config](https://github.com/louis-bourgault/zmk-config)
 
 # Images
 ![Initial Ergogen Design](./img/ergogen.png)
