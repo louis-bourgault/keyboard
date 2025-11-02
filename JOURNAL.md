@@ -35,10 +35,18 @@ I did include welcome deal for the switches, which I am going to make use of, bu
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c49504d935bf0d03425c33c4d878850368cb8a6b/image.png)
   
 
-## 11/2/2025 - Started work on case design  
+## 11/2/2025 1 PM - Started work on case design  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--ded5353b05e4267ae4986bcc66c3f10d82ebfa78/image.png)
 
 Working on Fusion 360 design -- looks pretty good so far! Just designed a simple case.
 Halfway through I realised that I'd been designing in non parametric mode. Why does fusion even have that? There's nothing that i would need to go back and change though, so i don't think it'll be a problem.  
+
+## 11/2/2025 4 PM - Added plate to the fusion file  
+
+Also exported everything that i've made as stls and put my fusion document into there for the case. Ergogen is actually kind of amazing for this kind of thing -- it let me define a case outline and download it as a dxf, and then i could just chuck it into Fusion and extrude and it's now part of my main design.
+All of these new files are on the github repo
+getting close to submitting now!
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ba50fcab67a8ac47821f5b7cfe8e51249005bfa2/image.png)
+  
 
