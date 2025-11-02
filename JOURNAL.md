@@ -50,3 +50,12 @@ getting close to submitting now!
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ba50fcab67a8ac47821f5b7cfe8e51249005bfa2/image.png)
   
 
+## 11/2/2025 5 PM - Made Initial Firmware  
+
+I set up zmk with my pin layout. Well, with quite a lot of help from Claude. 
+Zmk is very complicated, and I don't want to make a full layout until I have the hardware with me ready to play with. So, I just made a basic one for now
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzcwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--2a887c32f2f88a11c74ccd181cf57304f69314f0/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzcwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--96202ecade7f4767a02ca1689e93e059406923de/image.png)
+  
+
