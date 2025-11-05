@@ -25,3 +25,4 @@ Note: this software is in a seperate repo because of the way that ZMK works. The
 ![Initial Ergogen Design](./img/ergogen.png)
 ![Kicad PCB, ready to be ordered](./img/kicadDesign.png)
 ![Allpcb Order](./img/allpcbOrder.png)
+![Screenshot of case design in Fusion 360](./img/caseScreenshot.png)
