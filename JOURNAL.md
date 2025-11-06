@@ -59,3 +59,14 @@ Zmk is very complicated, and I don't want to make a full layout until I have the
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzcwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--96202ecade7f4767a02ca1689e93e059406923de/image.png)
   
 
+## 11/6/2025 - Finalised Bill of Materials  
+
+I found some rather cheap keycaps that I can use! They cost about 20 cents australian each, and I'll get free shipping on my first order so i think that will be OK.
+I'm actually pretty proud of how cheaply I'm going to be able to do this. US$70 is pretty good for two keyboards, it seems. A lot of this is, of course, because of welcome deals. 
+
+Also, I said I wouldn't in the last entry, but did some brainstorming on keyboard layouts on paper. I printed off a sheet to fill in and played around with it -- i also gave one to the friend I'm doing it with. I won't put it into the firmware until I've got actual hardware ready to work with, but it's a start
+
+![WIN_20251103_08_53_14_Pro](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--730bd2f9e42861a41b74472d0d2bc41438f35959/WIN_20251103_08_53_14_Pro.jpg)![blankKeyMaps](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e58df51119ec46d44e45f7d96efd3337781eae0f/blankKeyMaps.png)
+
+  
+
