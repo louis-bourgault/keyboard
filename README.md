@@ -33,10 +33,30 @@ Note: this software is in a seperate repo because of the way that ZMK works. The
 
 | **Component Type** | **Item Link** | **Quantity needed** | **Relevant Specifications** | **Tax % (if not included)** | **Price each (AUD)** | **Total Cost (AUD)** | **Total Cost (USD) (using 1 AUD = 0.65 USD)** | Running Cost (AUD | Running Cost (USD) | **Note** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Battery * 2 | https://www.ebay.com.au/itm/336259992666?_skw=ps3+wireless+controller+battery | 2 | 3.7v, 400mAh, 53x36x6mm, JSTPH | 0.00% | $11.22 | $22.44 | $14.59 | $22.44 | $14.59 |  |
-| NRF52840 | https://www.aliexpress.com/item/1005006035267231.html | 4 |  | 10.00% | $5.65 | $24.86 | $16.16 | $47.30 | $30.75 |  |
-| Keyboard Switch * 110 | https://www.aliexpress.com/item/1005006376024657.html?mp=1 | 1 | Gateron Brown * 110 | 10.00% | $18.33 | $20.16 | $13.11 | $67.46 | $43.85 | This is using my Welcome Deal on Aliexpress |
-| Keyboard Switch * 10 | https://www.aliexpress.com/item/1005006376024657.html?mp=1 | 1 | Gateron Yellow * 10 | 10.00% | $4.70 | $5.17 | $3.36 | $72.63 | $47.21 | Supplemental Switches, not on welcome deal so substantially more expensive. Will use different type of switch (linear instead of tactile) for modifier keys |
-| Diodes * 200 | https://www.aliexpress.com/item/1005009896621714.html | 1 | Basic 1n4148 diodes | 10.00% | $5.94 | $6.53 | $4.25 | $79.17 | $51.46 |  |
-| PCB * 5 | AllPCB | 1 | Custom designed PCB for the system | 0.00% | $2.14 | $2.14 | $1.39 | $81.31 | $52.85 | already purchased |
-| Keycaps | https://www.alibaba.com/product-detail/Multi-color-1U-DSA-Blank-Customized_1600930061454.html | 116 | Simple keycaps in variety of colours | 10.00% | $0.23 | $29.90 | $19.43 | $111.20 | $72.28 | Free shipping up to $30 with new Alibaba account |
+| Battery * 2 | https://www.ebay.com.au/itm/172212269580?_skw=ps3+battery+x+2 | 2 | 3.7v, 400mAh, 53x36x6mm, JSTPH | 0.00% | $13.45 | $26.90 | $17.49 | $26.90 | $17.49 |  |
+| NRF52840 | https://www.aliexpress.com/item/1005006035267231.html?afTraceInfo=1005006035267231__pc__c_ppc_item_bridge_pc_main__3EUczl2__1762002951010 | 4 |  | 10.00% | $5.65 | $24.86 | $16.16 | $51.76 | $33.64 |  |
+| Keyboard Switch * 110 | https://www.aliexpress.com/item/1005006376024657.html?mp=1 | 1 | Gateron Brown * 110 | 10.00% | $18.33 | $20.16 | $13.11 | $71.92 | $46.75 | This is using my Welcome Deal on Aliexpress |
+| Keyboard Switch * 10 | https://www.aliexpress.com/item/1005006376024657.html?mp=1 | 1 | Gateron Yellow * 10 | 10.00% | $4.70 | $5.17 | $3.36 | $77.09 | $50.11 | Supplemental Switches, not on welcome deal so substantially more expensive. Will use different type of switch (linear instead of tactile) for modifier keys |
+| Diodes * 200 | https://www.aliexpress.com/item/1005009896621714.html | 1 | Basic 1n4148 diodes | 10.00% | $5.94 | $6.53 | $4.25 | $83.63 | $54.36 |  |
+| PCB * 5 | AllPCB | 1 |  | 0.00% | $2.14 | $2.14 | $1.39 | $85.77 | $55.75 | already purchased |
+| Keycaps | https://www.alibaba.com/product-detail/Multi-color-1U-DSA-Blank-Customized_1600930061454.html | 116 |  | 10.00% | $0.23 | $29.35 | $19.08 | $115.12 | $74.82 | Free shipping with welcome bonus |
+
+# Note on Pricing
+Since a lot of these sites have little fees that are hard to deal with on a one by one basis (such as payment processing fees, et cetera). So, the final numbers as given at checkout are slightly different.
+Additionally, there is a chance that these prices may fluctuate. If they go up at all, I am able to cover the cost (I am willing to spend a bit of my money on this, and don't need a grant for all of it).
+
+![Alibaba Order](./img/alibaba_order.png)
+![Aliexpress Order](./img/aliexpress_order.png)
+![Allpcb](./img/allpcbOrder.png)
+Note: this order actually cost me $2.14, it's just not showing the right amount because that was a one time discount
+![Order Order](./img/ebay_order.png)
+
+Prices:
+- Alibaba: AU$33.60
+- Aliexpress: AU$66.36
+- Allpcb: AU$2.14
+- Ebay: AU$26.90
+
+Total: AU$129
+In USD: US$83.79
+Note: if I do not qualify for a full support, i can cover a portion of it.
