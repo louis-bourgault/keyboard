@@ -70,3 +70,10 @@ Also, I said I wouldn't in the last entry, but did some brainstorming on keyboar
 
   
 
+## 11/8/2025 - Redid BOM  
+
+A few things have sold out since I made my bom, which was a bit annoying, but i redid those things. Also, dealing with pricing is painful especially on sites that don't give itemised reports for tax (speaking of which, Australia seems to have rather complicated and hard to account for import taxes on things). Because of this, the BOM does not entirely match the amount in the screenshots, because I couldn't figure out how to itemise these fees with the framework that I had set up.
+Anyway, here are the cart screenshots![aliexpress_order](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--a78ee0e0082862e57d89904b82e03c08033d85a0/aliexpress_order.png)![alibaba_order](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--0aaed83e65c84963fd7cb4a5f78770c4fed0c133/alibaba_order.png)
+![ebay_order](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6a0121763621e24def41352f7780fd7dd35a0fb1/ebay_order.png)![allpcbWithNote](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c411430a78b13bb2f3cc9292942e3c8a26f05d2d/allpcbWithNote.png)
+  
+
