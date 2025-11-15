@@ -31,32 +31,29 @@ Note: this software is in a seperate repo because of the way that ZMK works. The
 
 # Bill of Materials
 
-| **Component Type** | **Item Link** | **Quantity needed** | **Relevant Specifications** | **Tax % (if not included)** | **Price each (AUD)** | **Total Cost (AUD)** | **Total Cost (USD) (using 1 AUD = 0.65 USD)** | Running Cost (AUD | Running Cost (USD) | **Note** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Battery * 2 | https://www.ebay.com.au/itm/172212269580?_skw=ps3+battery+x+2 | 2 | 3.7v, 400mAh, 53x36x6mm, JSTPH | 0.00% | $13.45 | $26.90 | $17.49 | $26.90 | $17.49 |  |
-| NRF52840 | https://www.aliexpress.com/item/1005006035267231.html?afTraceInfo=1005006035267231__pc__c_ppc_item_bridge_pc_main__3EUczl2__1762002951010 | 4 |  | 10.00% | $5.65 | $24.86 | $16.16 | $51.76 | $33.64 |  |
-| Keyboard Switch * 110 | https://www.aliexpress.com/item/1005006376024657.html?mp=1 | 1 | Gateron Brown * 110 | 10.00% | $18.33 | $20.16 | $13.11 | $71.92 | $46.75 | This is using my Welcome Deal on Aliexpress |
-| Keyboard Switch * 10 | https://www.aliexpress.com/item/1005006376024657.html?mp=1 | 1 | Gateron Yellow * 10 | 10.00% | $4.70 | $5.17 | $3.36 | $77.09 | $50.11 | Supplemental Switches, not on welcome deal so substantially more expensive. Will use different type of switch (linear instead of tactile) for modifier keys |
-| Diodes * 200 | https://www.aliexpress.com/item/1005009896621714.html | 1 | Basic 1n4148 diodes | 10.00% | $5.94 | $6.53 | $4.25 | $83.63 | $54.36 |  |
-| PCB * 5 | AllPCB | 1 |  | 0.00% | $2.14 | $2.14 | $1.39 | $85.77 | $55.75 | already purchased |
-| Keycaps | https://www.alibaba.com/product-detail/Multi-color-1U-DSA-Blank-Customized_1600930061454.html | 116 |  | 10.00% | $0.23 | $29.35 | $19.08 | $115.12 | $74.82 | Free shipping with welcome bonus |
+|Component Type       |Item Link                                                 |Quantity needed|Relevant Specifications       |Tax % (if not included)|Price each (AUD)|Total Cost (AUD)|Total Cost (USD) (using 1 AUD = 0.65 USD)|Running Cost (AUD|Running Cost (USD)|Note                                                                                                                                                       |
+|---------------------|----------------------------------------------------------|---------------|------------------------------|-----------------------|----------------|----------------|-----------------------------------------|-----------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Battery * 4          |https://www.aliexpress.com/item/1005006924508264.html?mp=1|1              |3.7v, 400mAh, 53x36x6mm, JSTPH|0.00%                  |$18.40          |$18.40          |$11.96                                   |$18.40           |$11.96            |                                                                                                                                                           |
+|NRF52840             |https://www.aliexpress.com/item/1005006035267231.html?    |4              |                              |10.00%                 |$5.65           |$24.86          |$16.16                                   |$43.26           |$28.12            |                                                                                                                                                           |
+|Keyboard Switch * 110|https://www.aliexpress.com/item/1005006376024657.html?mp=1|1              |Gateron Brown * 110           |10.00%                 |$18.33          |$20.16          |$13.11                                   |$63.42           |$41.22            |This is using my Welcome Deal on Aliexpress                                                                                                                |
+|Keyboard Switch * 10 |https://www.aliexpress.com/item/1005006376024657.html?mp=1|1              |Gateron Yellow * 10           |10.00%                 |$4.70           |$5.17           |$3.36                                    |$68.59           |$44.59            |Supplemental Switches, not on welcome deal so substantially more expensive. Will use different type of switch (linear instead of tactile) for modifier keys|
+|Diodes * 200         |https://www.aliexpress.com/item/1005009896621714.html     |1              |Basic 1n4148 diodes           |10.00%                 |$5.94           |$6.53           |$4.25                                    |$75.13           |$48.83            |                                                                                                                                                           |
+|PCB * 5              |AllPCB                                                    |1              |                              |0.00%                  |$2.14           |$2.14           |$1.39                                    |$77.27           |$50.22            |already purchased                                                                                                                                          |
+|Keycaps * 80         |https://www.aliexpress.com/item/1005007415198959.html?mp=1|2              |                              |10.00%                 |$13.58          |$29.88          |$19.42                                   |$107.14          |$69.64            |                                                                                                                                                           |
+
 
 # Note on Pricing
 Since a lot of these sites have little fees that are hard to deal with on a one by one basis (such as payment processing fees, et cetera). So, the final numbers as given at checkout are slightly different.
 Additionally, there is a chance that these prices may fluctuate. If they go up at all, I am able to cover the cost (I am willing to spend a bit of my money on this, and don't need a grant for all of it).
 
-![Alibaba Order](./img/alibaba_order.png)
 ![Aliexpress Order](./img/aliexpress_order.png)
 ![Allpcb](./img/allpcbOrder.png)
 Note: this order actually cost me $2.14, it's just not showing the right amount because that was a one time discount
-![Order Order](./img/ebay_order.png)
 
 Prices:
-- Alibaba: AU$33.60
-- Aliexpress: AU$66.36
+- Aliexpress: AU$114.54
 - Allpcb: AU$2.14
-- Ebay: AU$26.90
 
-Total: AU$129
-In USD: US$83.79
+Total: AU$116.68
+In USD: US$76.20
 Note: if I do not qualify for a full support, i can cover a portion of it.
