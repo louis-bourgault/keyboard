@@ -1,6 +1,11 @@
 # keyboard
 *my project for hack club blueprint*
 
+## Render (made in blender, not exact but this is what I'm going for. I had some fun with lighting in this one)
+![Blender Render](./img/render.png)
+### Boring edition without the lighting
+![Boring Render](./img/boringRender.png)
+
 My design for a lily58 inspired split wireless keyboard using ergogen and kicad. It uses the NRF52840 chipset, and 3d printed parts mostly
 
 One of my friends has significant wrist pain because his laptop keyboard is terrible. A few months ago we were planning to make a keyboard together and made things in Ergogen but never got that much further than that. Now, I have put things into kicad and done a bit more work in preparing things to be actually manufactured.
