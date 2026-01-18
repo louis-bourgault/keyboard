@@ -6313,7 +6313,7 @@
 			(at 0 -15 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "ce6e25a4-fcf4-4e3c-b122-97e08ee1c66e")
+			(uuid "5e8eb8c8-a578-4e29-a0bc-485d7d20de04")
 			(effects
 				(font
 					(size 1 1)
@@ -6324,7 +6324,7 @@
 		(property "Value" ""
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "395c5fd5-b890-401d-b0a9-ea76614695f4")
+			(uuid "041a970c-1b6b-4cac-82ab-0b8ec3f93522")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6336,7 +6336,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "de29cfe0-ae40-426b-ae80-633eac84b0d9")
+			(uuid "89c16663-2e50-4786-81bd-76e422960bfe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6348,7 +6348,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "550c7596-5f6b-4167-a71e-f1a2ef237355")
+			(uuid "dc64ebcf-7b8e-454d-80de-55b4993f91f8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7423,7 +7423,7 @@
 			)
 		)
 		(fp_text user "P1"
-			(at 3.262 -13.5 180)
+			(at 3.445 -13.5 180)
 			(layer "B.Fab")
 			(uuid "f00ed519-2843-47a9-a325-f4d4aa37b276")
 			(effects
@@ -17006,6 +17006,26 @@
 				(bold yes)
 			)
 			(justify left bottom)
+		)
+	)
+	(gr_text_box "Note: solder on this side when you need to flip the inputs over the Y axis, solder on the other side when nothing must be flipped"
+		(start 158 20.25)
+		(end 192 29.75)
+		(margins 1.0025 1.0025 1.0025 1.0025)
+		(layer "B.Cu")
+		(uuid "fd79a381-7e2f-4a48-b970-b728c37fb969")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(border yes)
+		(stroke
+			(width 0.2)
+			(type solid)
 		)
 	)
 	(dimension
